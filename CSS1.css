@@ -1,0 +1,41 @@
+h1{
+    size:70px;
+    text-align: center;
+}
+.background{
+    color: burlywood;
+}
+span{
+  color:#F1210C;
+}
+.about{
+    border: solid;
+    width: 110px;
+    float: left;
+}
+.follow{
+    border: solid;
+    float: right;
+    height: 50px;
+}
+.main{
+    text-align: center;
+}
+.now{
+    color: #710067;
+}
+.main2{
+    text-align: center;
+}
+a:hover{
+    color:blue;
+}
+.now{
+    margin-top: 100px;
+}
+img{
+    margin-bottom: 40px;
+}
+.facts{
+    margin-top: 100px;
+}

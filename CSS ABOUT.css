@@ -1,0 +1,40 @@
+.main{
+    text-align: center;
+    color: #1E3E07;
+}
+.grid{
+     text-align: center;
+}
+body {
+    background-color: coral;
+  }
+  .photos{
+      text-align: center;
+  }
+  .fee{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .classes{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+      bottom: 50%;
+      transform: translate(-10%,50%);
+  }
+  .details{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+     right: 50%;
+      top: 50%;
+      transform: translate(60%,-180%);
+  }
+  .face{
+      color: #ECD9D9;
+      text-align: center;
+  }
+span{
+    color:#C70039 ;
+}

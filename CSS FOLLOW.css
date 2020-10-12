@@ -1,0 +1,24 @@
+.useful{
+    color: #AB0C0C;
+    text-align: center;
+}
+.steps{
+    text-align: right;
+    color: #AB0C0C;
+}
+body {
+    background-color: coral;
+  }
+span{
+    color: #084A90;
+}
+.main{
+    text-align: center;
+}
+.decorate{
+    color: #AB0C0C;
+    text-align: left;
+}
+.main2{
+    text-align: center;
+}
